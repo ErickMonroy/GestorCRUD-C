@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h1>🗂️ GestorCRUD-C</h1>
+  <h1>GestorCRUD-C</h1>
   
   <h3>Sistema de Gestión de Registros </h3>
   
