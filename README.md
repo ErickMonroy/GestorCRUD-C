@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
   <h1>GestorCRUD-C</h1>
   
